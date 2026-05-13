@@ -1,0 +1,5 @@
+out/
+fatjar/
+wsfin_final.jar
+*.class
+*~
