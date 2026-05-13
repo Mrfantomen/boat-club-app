@@ -60,7 +60,7 @@ EXIT;
 
 ### Step 3 — Clone the project
 ```bash
-git clone https://github.com/yourusername/boat-club-app.git
+git clone https://github.com/mrfantomen/boat-club-app.git
 cd boat-club-app
 ```
 
